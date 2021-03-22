@@ -2,7 +2,7 @@
 
 ## Processing Projects
 
-### CarsProject
+### SpaceGame
 OOP Game built in the Processing environment - Winter of 2020.
 
-![Image of CarsProject] ()
+![Image of SpaceGame] ()
