@@ -1,4 +1,5 @@
 # Jordyn Bryant's programming Portfolio 2021
+Jordyn Bryant [email](mailto:jobryant328@gmail.com)
 
 ## Processing Projects
 
