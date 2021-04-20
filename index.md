@@ -19,7 +19,35 @@ OOP GUI calculator built in the Processing environment - Winter of 2020.
 Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/Calculator)
 
 
+### Computer Timeline
+OOP information app built in the Processing environment - Fall of 2020.
+
+![Timeline](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/images/CompTimeline.png)
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/ComputerTimeline)
+
+
+### Miles to NAU converter
+OOP information converter built in the Processing environment - Fall of 2020.
+
+![Converter](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/images/Converter.png)
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/src/Converter/Miles_to_Nau.pde)
+
+
 ### Input/Output Files
 Writing output to a file built in the Repl.it environment - Spring of 2021.
 
 Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/InputOutput)
+
+
+### Madlib
+User input and arrays built in the Repl.it environment - Spring of 2021.
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/src/Madlib/MadLib.java)
+
+
+### Guessing Game
+Random number generator with user input built in the Repl.it environment - Spring of 2021.
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/src/Number/NumberGuessing.java)
