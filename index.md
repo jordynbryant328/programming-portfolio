@@ -22,4 +22,4 @@ Source code available [here](https://github.com/jordynbryant328/programming-port
 ### Input/Output Files
 Writing output to a file built in the Repl.it environment - Spring of 2021.
 
-SOurce code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/InputOutput)
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/InputOutput)
