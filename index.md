@@ -5,4 +5,14 @@
 ### SpaceGame
 OOP Game built in the Processing environment - Winter of 2020.
 
-![Image of SpaceGame] (https://github.com/jordynbryant328/programming-portfolio/blob/bcd561852a927327151eee78f60028bc9bae7409/images/SpaceGame.png)
+![SpaceGame](https://github.com/jordynbryant328/programming-portfolio/blob/bcd561852a927327151eee78f60028bc9bae7409/images/SpaceGame.png)
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/SpaceGame_4)
+
+
+### Calculator
+OOP GUI calculator built in the Processing environment - Winter of 2020.
+
+![Calculator](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/images/Screen%20Shot%20Calculator.png)
+
+Source code available [here](https://github.com/jordynbryant328/programming-portfolio/tree/gh-pages/src/Calculator)
