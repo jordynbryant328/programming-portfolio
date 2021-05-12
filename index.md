@@ -51,3 +51,9 @@ Source code available [here](https://github.com/jordynbryant328/programming-port
 Random number generator with user input built in the Repl.it environment - Spring of 2021.
 
 Source code available [here](https://github.com/jordynbryant328/programming-portfolio/blob/gh-pages/src/Number/NumberGuessing.java)
+
+
+### HangMan Game
+User input and arrays with boolean built in the Repl.it environment - Spring of 2021.
+
+Source code available [here](https://github.com/jordynbryant328/hangman-project/blob/main/src/main.java)
